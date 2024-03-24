@@ -1,6 +1,6 @@
 # Lecture Assistant
 
-__Note:__ the code has been fully condensed into the backend/webcam.py file for now, it's getting fixed soon, still works as intended. also, in order to run the facial recognition model, clone the repository at github.com/serengil/deepface and run the api.py file in /deepface/api/src
+__Note:__ the code has been fully condensed into backend/webcam.py for now, it's getting fixed soon, still works as intended. also, in order to run the facial recognition model, clone the repository at github.com/serengil/deepface and run the api.py file in /deepface/api/src
 
 Howdy! This is my groups submission for the TACS “build for good” hackathon. 
 
