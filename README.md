@@ -1,4 +1,4 @@
-#Lecture Assistant
+# Lecture Assistant
 
 Howdy! This is my groups submission for the TACS “build for good” hackathon. 
 
