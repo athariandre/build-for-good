@@ -2,7 +2,7 @@
 
 __Note:__ the code has been fully condensed into backend/webcam.py for now, it's getting fixed soon, still works as intended. also, in order to run the facial recognition model, clone the repository at github.com/serengil/deepface and run the api.py file in /deepface/api/src
 
-See our video submission here: https://drive.google.com/file/d/14LPIHrYeJtQH2_jjtXBi6kKyo10Vmrlu/view?userstoinvite=mbohde2015@tamu.edu&sharingaction=manageaccess&role=writer&ts=6600b988
+See our video submission here: https://drive.google.com/file/d/14LPIHrYeJtQH2_jjtXBi6kKyo10Vmrlu/view?usp=sharing
 
 Howdy! This is my groups submission for the TACS “build for good” hackathon. 
 
