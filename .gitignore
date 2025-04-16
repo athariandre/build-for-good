@@ -1,3 +1,4 @@
 *.exe
 venv/
 backend/*.jpg
+__pycache__/

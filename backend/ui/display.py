@@ -1,10 +1,9 @@
-from PyQt5.QtWidgets import QApplication, QLabel, QWidget, QVBoxLayout
+from PyQt5.QtWidgets import QLabel, QWidget, QVBoxLayout
 from PyQt5.QtCore import Qt
 from PyQt5.QtGui import QFont, QColor, QPalette
 
 class Display:
     def __init__(self):
-        self.app = QApplication([])
         self.window = QWidget()
         self.palette = self.window.palette()
         self.window.setWindowTitle('Keep Going')
